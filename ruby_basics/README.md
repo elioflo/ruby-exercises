@@ -31,20 +31,20 @@ These exercises are designed to complement the [Ruby Basic lessons](https://www.
 
 #### 8.Methods
 
-- [ ] Method Exercises
+- [X] Method Exercises
 
 #### 9.Debugging
 
-- [ ] Debugging Exercises
+- [X] Debugging Exercises
 
 #### 10.Basic Enumerables
 
-- [ ] Basic Enumerable Exercises
+- [X] Basic Enumerable Exercises
 
 #### 11.Predicate Enumerables
 
-- [ ] Predicate Enumerable Exercises
+- [X] Predicate Enumerable Exercises
 
 #### 12.Nested Collections
 
-- [ ] Nested Collection Exercises
+- [X] Nested Collection Exercises
